@@ -1,1 +1,1 @@
-# go-rest
+# go-rest service with JWT token
